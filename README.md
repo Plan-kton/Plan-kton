@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plan-kton
 - 👀 I’m interested in finding patterns using advanced methods but telling the story as simply and visually as possible 
-- 🌱 I’m currently learning dash plotly to build front end interactive visuals
+- 🌱 I’m currently learning Streamlit to build front end interactive visuals
 - 💞️ I’m looking to collaborate on time series forecasting - ARIMA and regression
 - 📫 How to reach me erickarlson43@gmail.com
 - 😄 Pronouns: he/him
